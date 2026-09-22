@@ -3,7 +3,7 @@ import sale from "../images/sale.jpg";
 function SalesImage() {
   return (
     <div className="sale-image">
-      <img src={sale} alt="Sale Image"></img>
+      <img src={sale} alt="Sale"></img>
       <div className="sale-image__offer">
         <h1>Udemy Flash Sale! 24 hours to sale</h1>
         <p>
