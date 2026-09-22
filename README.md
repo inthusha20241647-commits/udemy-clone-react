@@ -7,7 +7,7 @@ NavBar • SearchBar • Product • AboutUs • Footer
 
 ## 🚀 Deployed on Vercel
 
-🔗 https://mirevya-react.vercel.app/
+🔗 https://udemy-clone-react-three-lovat.vercel.app/
 
 ## ⚛️ React Concepts Practiced
 
