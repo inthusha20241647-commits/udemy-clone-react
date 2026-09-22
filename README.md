@@ -2,6 +2,7 @@
 
 ## 📚 Learning Purpose
 This project was created to understand the basics of converting a traditional HTML/CSS website into a React application. It helped me practice creating reusable components such as:
+
 NavBar • SearchBar • Product • AboutUs • Footer
 
 ## 🚀 Deployed on Vercel
