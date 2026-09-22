@@ -14,7 +14,7 @@ function Popular() {
       <p className="popular__subtitle">Pick the best fit</p>
       <div className="popular__container">
         <div className="course-card">
-          <img src={c5}></img>
+          <img src={c5} alt="image5" ></img>
           <h3>2026 Python Datavisualization Masterclass</h3>
           <p>Col Steele</p>
           <p>4.9 ⭐ ⭐ ⭐ ⭐</p>
@@ -24,7 +24,7 @@ function Popular() {
         </div>
 
         <div className="course-card">
-          <img src={c6}></img>
+          <img src={c6} alt="image6" ></img>
           <h3>Basic to Advanced programming with EMC</h3>
           <p>Col Steele</p>
           <p>3.9 ⭐ ⭐ ⭐</p>
@@ -34,7 +34,7 @@ function Popular() {
         </div>
 
         <div className="course-card">
-          <img src={c7}></img>
+          <img src={c7} alt="image7"></img>
           <h3>Web Development Bootcamp 2026</h3>
           <p>Col Steele</p>
           <p>4.9 ⭐ ⭐ ⭐ ⭐</p>
@@ -44,7 +44,7 @@ function Popular() {
         </div>
 
         <div className="course-card">
-          <img src={c8}></img>
+          <img src={c8} alt="image8"></img>
           <h3>Master UI/UX with Figma 2026</h3>
           <p>Col Steele</p>
           <p>4.9 ⭐ ⭐ ⭐ ⭐</p>
@@ -54,7 +54,7 @@ function Popular() {
         </div>
 
         <div className="course-card">
-          <img src={c9}></img>
+          <img src={c9} alt="image9"></img>
           <h3>Basic to Advanced programming with EMC</h3>
           <p>Col Steele</p>
           <p>3.9 ⭐ ⭐ ⭐</p>
@@ -64,7 +64,7 @@ function Popular() {
         </div>
 
         <div className="course-card">
-          <img src={c10}></img>
+          <img src={c10} alt="image10"></img>
           <h3>Web Development Bootcamp 2026</h3>
           <p>Col Steele</p>
           <p>4.9 ⭐ ⭐ ⭐ ⭐</p>
@@ -74,7 +74,7 @@ function Popular() {
         </div>
 
         <div className="course-card">
-          <img src={c11}></img>
+          <img src={c11} alt="image11"></img>
           <h3>Master UI/UX with Figma 2026</h3>
           <p>Col Steele</p>
           <p>4.9 ⭐ ⭐ ⭐ ⭐</p>
@@ -84,7 +84,7 @@ function Popular() {
         </div>
 
         <div className="course-card">
-          <img src={c12}></img>
+          <img src={c12} alt="image12"></img>
           <h3>2026 Python Datavisualization Masterclass</h3>
           <p>Col Steele</p>
           <p>4.9 ⭐ ⭐ ⭐ ⭐</p>

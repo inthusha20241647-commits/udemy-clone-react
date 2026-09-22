@@ -9,7 +9,7 @@ function Recommended() {
       <p>Pick the best fit</p>
       <div className="recommended__container">
         <div className="course-card">
-          <img src={c1}></img>
+          <img src={c1} alt="image1"></img>
           <h3>2026 Python Datavisualization Masterclass</h3>
           <p>Col Steele</p>
           <p>4.9 ⭐ ⭐ ⭐ ⭐</p>
@@ -19,7 +19,7 @@ function Recommended() {
         </div>
 
         <div className="course-card">
-          <img src={c2}></img>
+          <img src={c2} alt="image2"></img>
           <h3>Basic to Advanced programming with EMC</h3>
           <p>Col Steele</p>
           <p>3.9 ⭐ ⭐ ⭐</p>
@@ -29,7 +29,7 @@ function Recommended() {
         </div>
 
         <div className="course-card">
-          <img src={c3}></img>
+          <img src={c3} alt="image3"></img>
           <h3>Web Development Bootcamp 2026</h3>
           <p>Col Steele</p>
           <p>4.9 ⭐ ⭐ ⭐ ⭐</p>
@@ -39,7 +39,7 @@ function Recommended() {
         </div>
 
         <div className="course-card">
-          <img src={c4}></img>
+          <img src={c4} alt="image4"></img>
           <h3>Master UI/UX with Figma 2026</h3>
           <p>Col Steele</p>
           <p>4.9 ⭐ ⭐ ⭐ ⭐</p>
