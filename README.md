@@ -68,4 +68,5 @@ A Udemy-inspired frontend website rebuilt using React.js. This project is an upg
 - Understand JSX and component structure.
 - Improve frontend development skills using React.
 
+
 *This project is part of my continuous learning journey in frontend development.*
